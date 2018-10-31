@@ -1,2 +1,2 @@
 # core
-Core Signal Processing an Machine Learning Algorithms
+Core Signal Processing and Machine Learning Algorithms
