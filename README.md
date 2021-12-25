@@ -1,2 +1,3 @@
 # DTW Pattern Detection
-Core Signal Processing and Machine Learning Algorithms
+
+This Python-script receives data over the network and detects pattern with the DTW algorithm.
